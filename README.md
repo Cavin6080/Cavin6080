@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: cavinmacwan1@gmail.com
 - 😄 Pronouns: You can give one.
 - ⚡ Fun fact: I drink lots of coffee
--->
