@@ -12,6 +12,8 @@ I've been coding since I was in grade 4th. I know programming languages like dar
 * 🤝  I'm open to collaborating on App development projects
 * ⚡  I drink lots of coffee😉
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 ### Skills
 
 <p align="left">
