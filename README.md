@@ -4,7 +4,7 @@ Hi 👋 My name is Cavin Macwan
 App developer
 -------------
 
-I've been coding since I was in grade 4th. I know programming languages like dart, python, c++ Query Languages like SQL, No SQL database(mongo-db) Framework like flutter and django
+I've been coding since I was in grade 4th. I'm currently working on flutter to create cross platform applications.
 
 
 * 🌍  I'm based in India
