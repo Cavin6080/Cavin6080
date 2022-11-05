@@ -6,6 +6,7 @@ App developer
 
 I've been coding since I was in grade 4th. I'm currently working on flutter to create cross platform applications.
 
+[![@cavin's Holopin board](https://holopin.me/cavin)](https://holopin.io/@cavin)
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [cavinmacwan1@gmail.com](mailto:cavinmacwan1@gmail.com)
@@ -13,9 +14,6 @@ I've been coding since I was in grade 4th. I'm currently working on flutter to c
 * 🤝  I'm open to collaborating on App development projects
 * ⚡  I drink lots of coffee😉
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-[![@cavin's Holopin board](https://holopin.me/cavin)](https://holopin.io/@cavin)
 
 
 ### Skills
