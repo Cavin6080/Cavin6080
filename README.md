@@ -4,7 +4,7 @@ Hi 👋 My name is Cavin Macwan
 App developer
 -------------
 
-I've been coding since I was in grade 4th. I'm currently working on flutter to create cross platform applications.
+I'm currently working on flutter to create cross platform applications.
 
 [![@cavin's Holopin board](https://holopin.me/cavin)](https://holopin.io/@cavin)
 
@@ -39,6 +39,8 @@ I've been coding since I was in grade 4th. I'm currently working on flutter to c
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Cavin6080" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/cavin10101/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/cavin-macwan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+[![Cavin StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/15638854)](https://stackoverflow.com/users/15638854/cavin-macwan)
 
 ### Badges
 
