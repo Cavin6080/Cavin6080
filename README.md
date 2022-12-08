@@ -39,6 +39,8 @@ I'm currently working on flutter to create cross platform applications.
 
 [![Cavin Macwan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15638854&layout=compact)](https://stackoverflow.com/users/15638854/cavin-macwan)
 
+![Profile views](https://gpvc.arturio.dev/[Cavin6080])
+
 ### Badges
 
 <b>My GitHub Stats</b>
