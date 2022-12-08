@@ -39,7 +39,6 @@ I'm currently working on flutter to create cross platform applications.
 
 [![Cavin Macwan StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15638854&layout=compact)](https://stackoverflow.com/users/15638854/cavin-macwan)
 
-![Profile views](https://gpvc.arturio.dev/[Cavin6080])
 
 ### Badges
 
@@ -52,3 +51,6 @@ I'm currently working on flutter to create cross platform applications.
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Cavin6080/SayIt" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cavin6080&repo=SayIt&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+![Profile views](https://gpvc.arturio.dev/cavin6080)
