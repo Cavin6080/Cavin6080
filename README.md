@@ -1,5 +1,4 @@
-Hi 👋 My name is Cavin Macwan
-=============================
+<h1 align="center">Hi 👋 My name is Cavin Macwan</h1>
 
 <h3 align="center">Flutter Developer 💙 7Span | Open Source Enthusiast</h3>
 <h3 align="center">Contributor on Stackoverflow & GitHub | A Technophile ✌ and Blogger 👨‍💻
